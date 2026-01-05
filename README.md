@@ -16,45 +16,38 @@
 
 ## Languages and Tools 
 
-<p>
-	<p align="left" height="100">
-<a height="200" href="https://github.com/DenverCoder1/readme-typing-svg"><img margin-top="500px" src="https://readme-typing-svg.herokuapp.com?lines=Eat;Code;Sleep;Repeat&width=75&height=45"></a></p>
-<img align='right' src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-<p align="center" margin="0" >
-  <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/python-5.svg" alt="Python"></code>
-  <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/git-icon.svg" alt="git"></code>
-  <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/terminal-1.svg" alt="terminal"></code><!-- PostgreSQL -->
-<code><img height="50" width="50"src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg"
-       alt="PostgreSQL"></code>
-<code>
-  <img height="50" width="50"
-       src="https://dashboardicons.com/images/svg/microsoft-sql-server.svg"
-       alt="MS SQL Server">
-</code>
-
-  <!-- <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/java-4.svg" alt="java"></code> -->
-  <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/css-3.svg" alt="CSS"></code>
-  <!-- <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/r-lang.svg" alt="R"></code> -->
-	<br/><br/>
-  <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/c-2975.svg" alt="C"></code>
-  <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/master/svg/Matlab_Logo.png" alt="MATLAB"></code>
-  <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/sql.png" alt="SQL"></code>
-  <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/html-5.svg" alt="HTML"></code>
-  <!-- <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/tableau-software.svg" alt="Tableau"></code> -->
-	<!-- Excel --><code>
-  <img height="50" width="50"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/excel/excel-original.svg"
-       alt="Excel">
-</code>
-
-
-<!-- Power BI -->
-<code>
-<img height="50" width="50"src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg"alt="Power BI"></code>
-
-  <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Code Studio"></code>
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Eat;Code;Sleep;Repeat&width=180&height=45">
+  </a>
 </p>
+
+<img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" />
+
+<p align="center">
+
+  <!-- Core -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48"/>
+
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/>
+
+  <!-- Web -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48"/>
+
+  <br/>
+
+  <!-- Analytics & Tools -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Excel_2013-2019_logo.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48"/>
+
 </p>
+
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=routparam12&theme=algolia" alt="routparam12"  /></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
