@@ -26,8 +26,12 @@
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/terminal-1.svg" alt="terminal"></code><!-- PostgreSQL -->
 <code><img height="50" width="50"src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg"
        alt="PostgreSQL"></code>
-<code><img height="50" width="50"src="https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/database/sqlserver.svg"
-       alt="MS SQL Server"></code>
+<code>
+  <img height="50" width="50"
+       src="https://dashboardicons.com/images/svg/microsoft-sql-server.svg"
+       alt="MS SQL Server">
+</code>
+
   <!-- <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/java-4.svg" alt="java"></code> -->
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/css-3.svg" alt="CSS"></code>
   <!-- <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/r-lang.svg" alt="R"></code> -->
@@ -37,9 +41,12 @@
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/sql.png" alt="SQL"></code>
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/html-5.svg" alt="HTML"></code>
   <!-- <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/tableau-software.svg" alt="Tableau"></code> -->
-	<!-- Excel -->
-<code>
-  <img height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg"alt="Excel"></code>
+	<!-- Excel --><code>
+  <img height="50" width="50"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/excel/excel-original.svg"
+       alt="Excel">
+</code>
+
 
 <!-- Power BI -->
 <code>
