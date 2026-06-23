@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Paramjeet Rout
+<h1 align="center">Hi 👋, I'm Param
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="350px" align="right" /></p></h1>
-<h3 font-weight: "bold">A Passionate Data Scientist from India <img src="https://i.pinimg.com/originals/60/04/30/600430c1d22c731b94cf4e7dae6b398a.gif" margin-top:"40" width="60px"></h3>
+<h3 font-weight: "bold">A Data Analyst - GenAI Engineer from India <img src="https://i.pinimg.com/originals/60/04/30/600430c1d22c731b94cf4e7dae6b398a.gif" margin-top:"40" width="60px"></h3>
 <p align="left">
 	<br/>
 - 🔭 Data Analysts <br/>
-- 🌱 Expertise in Python, Power BI, Azure, Excel, SQL, PostgreSQL <br/>
-- 🤝 Available for freelancing<br>
+- 🌱 Expertise in Python, GenAI, Machine Learning, Azure, SQL Server, PostgreSQL, Power BI, Elastic <br/>
+- 🤝 Available for freelancing, Building New age scalable exam system with zero chance of Question leak solutions integrated.<br>
 - 💬 Badminton, Cricket <br/>
 - 📫 How to reach me **routparamjeet@gmail.com** <br/>
 
