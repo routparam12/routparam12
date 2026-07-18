@@ -5,16 +5,25 @@
 </p>
 <h3><strong>Generative AI Engineer & Data Analyst from India 🇮🇳</strong></h3>
  
-<br/>
-- 🔭 &nbsp;Currently working as **Data Analyst & GenAI Engineer** at **Unimrkt Response LLP**, Gurugram /n
-- 🏗️ &nbsp; Building **[PaperShield](https://github.com/routparam12/PaperShield-AI-Exam-Engine-for-Leak-Proof-Assessments)** — AI exam engine that eliminates paper leaks by generating MCQs dynamically at exam time *(LangChain · LlamaIndex · ChromaDB · Gemini API)*
-- 🤖 &nbsp;Developed **[Dora.ChatBot]** —Conversational AI with 9-type persistent memory, multi-agent orchestration, Redis caching & Azure CI/CD
-- 🏗️ &nbsp;Working on OLTP → OLAP data architecture: **PostgreSQL → Logstash → Elasticsearch** with 3-min incremental refresh for near-real-time BI at Data Warehouse scale
-- 🌱 &nbsp;Currently deepening: **LangGraph · LlamaIndex · MLflow · Data Architecture**
-- 💬 &nbsp;Ask me about **RAG Pipelines · Power BI · SQL Optimisation · LangChain · GenAI Systems · Fraud Detection · OLTP/OLAP**
-- 📫 &nbsp;Reach me at **routparamjeet@gmail.com**
-- 🏸 &nbsp;Off the screen: Badminton & Cricket
-<br/>
+<br>
+
+- 🔭 &nbsp;Currently working as **Data Analyst & GenAI Engineer** at **Unimrkt Response LLP**, Gurugram <br>
+
+- 🏗️ &nbsp;Building **https://github.com/routparam12/PaperShield-AI-Exam-Engine-for-Leak-Proof-Assessments** — AI exam engine that eliminates paper leaks by generating MCQs dynamically at exam time *(LangChain · LlamaIndex · ChromaDB · Gemini API)* <br>
+
+- 🤖 &nbsp;Developed **Dora.ChatBot** — Conversational AI with 9-type persistent memory, multi-agent orchestration, Redis caching & Azure CI/CD <br>
+
+- 🏗️ &nbsp;Working on OLTP → OLAP data architecture: **PostgreSQL → Logstash → Elasticsearch** with 3-min incremental refresh for near-real-time BI at Data Warehouse scale <br>
+
+- 🌱 &nbsp;Currently deepening: **LangGraph · LlamaIndex · MLflow · Data Architecture** <br>
+
+- 💬 &nbsp;Ask me about **RAG Pipelines · Power BI · SQL Optimization · LangChain · GenAI Systems · Fraud Detection · OLTP/OLAP** <br>
+
+- 📫 &nbsp;Reach me at **routparamjeet@gmail.com** <br>
+
+- 🏸 &nbsp;Off the screen: Badminton & Cricket <br>
+
+<br>
 ---
  
 ## 🔗 Connect with me
