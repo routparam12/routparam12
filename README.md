@@ -6,7 +6,7 @@
 <h3><strong>Generative AI Engineer & Data Analyst from India 🇮🇳</strong></h3>
  
 <br/>
-- 🔭 &nbsp;Currently working as **Data Analyst & GenAI Engineer** at **Unimrkt Response LLP**, Gurugram
+- 🔭 &nbsp;Currently working as **Data Analyst & GenAI Engineer** at **Unimrkt Response LLP**, Gurugram /n
 - 🏗️ &nbsp; Building **[PaperShield](https://github.com/routparam12/PaperShield-AI-Exam-Engine-for-Leak-Proof-Assessments)** — AI exam engine that eliminates paper leaks by generating MCQs dynamically at exam time *(LangChain · LlamaIndex · ChromaDB · Gemini API)*
 - 🤖 &nbsp;Developed **[Dora.ChatBot]** —Conversational AI with 9-type persistent memory, multi-agent orchestration, Redis caching & Azure CI/CD
 - 🏗️ &nbsp;Working on OLTP → OLAP data architecture: **PostgreSQL → Logstash → Elasticsearch** with 3-min incremental refresh for near-real-time BI at Data Warehouse scale
