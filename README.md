@@ -3,7 +3,9 @@
 <p align="right">
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="param" width="320px" align="right" />
 </p>
-<h3><strong>Generative AI Engineer & Data Analyst from India 🇮🇳</strong></h3>
+<h3><strong>Generative AI Engineer & Data Analyst from India</strong></h3>
+<h3><strong>(https://routparam12.github.io/Resume_param/)</strong></h3>
+
  
 <br>
 
