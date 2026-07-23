@@ -4,7 +4,7 @@
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="param" width="320px" align="right" />
 </p>
 <h3><strong>Generative AI Engineer & Data Analyst from India</strong></h3>
-<h3><strong>(routparam12.github.io/param)</strong></h3>
+<h3><strong>([routparam12.github.io/param](https://routparam12.github.io/param/))</strong></h3>
 
  
 <br>
