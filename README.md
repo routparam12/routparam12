@@ -105,7 +105,7 @@
  
 ## 🚀 Featured Projects
  
-### 🛡️ [PaperShield — AI Exam Engine for Leak-Proof Assessments](https://github.com/routparam12/PaperShield-AI-Exam-Engine-for-Leak-Proof-Assessments)
+### 🛡️ [FairExam — AI Exam Engine for Leak-Proof Assessments](https://github.com/routparam12/FairExam-AI-Exam-Engine-for-Leak-Proof-Assessments.git)
 > Questions are **never stored** — generated dynamically from syllabus PDFs at exam time. Paper leaks become structurally impossible.
  
 `FastAPI` `LangChain` `LangGraph` `LlamaIndex` `ChromaDB` `Google Gemini API` `Token Optimisation` `Model Evaluation`
