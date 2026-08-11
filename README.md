@@ -11,7 +11,7 @@
 
 - 🔭 &nbsp;Currently working as **Data Analyst & GenAI Engineer** at **Unimrkt Response LLP**, Gurugram <br>
 
-- 🏗️ &nbsp;Building **https://github.com/routparam12/PaperShield-AI-Exam-Engine-for-Leak-Proof-Assessments** — AI exam engine that eliminates paper leaks by generating MCQs dynamically at exam time *(LangChain · LlamaIndex · ChromaDB · Gemini API)* <br>
+- 🏗️ &nbsp;Building **https://github.com/routparam12/FairExam-AI-Exam-Engine-for-Leak-Proof-Assessments** — AI exam engine that eliminates paper leaks by generating MCQs dynamically at exam time *(LangChain · LlamaIndex · ChromaDB · Gemini API)* <br>
 
 - 🤖 &nbsp;Developed **Dora.ChatBot** — Conversational AI with 9-type persistent memory, multi-agent orchestration, Redis caching & Azure CI/CD <br>
 
