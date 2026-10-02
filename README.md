@@ -3,7 +3,7 @@
 <p align="right">
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="param" width="320px" align="right" />
 </p>
-<h3><strong>Data Scientist (GenAI) & Data Analyst from India</strong></h3>
+<h3><strong>Data Scientist (GenAI + ML)  from India</strong></h3>
 <h3><strong><a href="https://routparam12.github.io/param/" target="_blank">🌐 routparam12.github.io/param/</a></strong></h3>
 
 <br>
