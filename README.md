@@ -105,39 +105,44 @@
  
 ## 🚀 Featured Projects
  
-### 🛡️ [FairExam — AI Exam Engine for Leak-Proof Assessments](https://github.com/routparam12/FairExam-AI-Exam-Engine-for-Leak-Proof-Assessments.git)
-> Questions are **never stored** — generated dynamically from syllabus PDFs at exam time. Paper leaks become structurally impossible.
- 
-`FastAPI` `LangChain` `LangGraph` `LlamaIndex` `ChromaDB` `Google Gemini API` `Token Optimisation` `Model Evaluation`
- 
-- 📄 Admin uploads PDF/DOCX syllabus → LlamaIndex indexes → ChromaDB stores → MCQs generated at exam time via Gemini API
-- 🔀 Paginated delivery: 20 questions per batch, shuffled — no student ever sees the full set
-- 🏛️ Designed for JEE / NEET / State PSC scale deployment
-- 🔒 Admin-only ingestion, role-based access, stateless generation for horizontal scalability
----
- 
-### 🤖 [SurveySense-AI-Multi-agent-conversational-Intelligence-for-Survey-Research](https://github.com/routparam12/SurveySense-AI-Multi-agent-conversational-Intelligence-for-Survey-Research)
-> Full-stack conversational AI with persistent multi-type memory, multi-agent orchestration & Azure CI/CD
- 
-`FastAPI` `LangChain` `LangGraph` `Hugging Face` `FAISS` `Redis` `PostgreSQL` `SQLAlchemy` `Docker` `Azure Pipelines`
- 
-- 🧠 9-type memory architecture: SHORT_TERM, LONG_TERM, ENTITY, FACT, PREFERENCE, PROCEDURAL, EPISODIC, SEMANTIC, WORKING
-- ⚡ Redis caching for low-latency memory retrieval in active sessions
-- 🔄 Multi-agent AI orchestration via LangGraph — autonomous query routing & response generation
-- 🚀 Full DevOps: Dockerised, Azure CI/CD pipeline, production-ready
----
- 
-### 🔍 Fraud User Detection System
-> Built for production at Unimrkt — **not on GitHub** (company data, deployed on Azure)
- 
-`Python` `scikit-learn` `Fuzzy Logic` `Decision Tree` `Feature Engineering` `MLflow` `Azure`
- 
-- 🎯 **70% precision** — 7 out of every 10 flagged accounts confirmed as actual fraud post-call
-- 🔎 Fuzzy matching (phonetic intelligence + edit-distance scoring) to detect duplicate & high-risk accounts from call data
-- 🧠 Feature engineering on email similarity, IP address, geolocation, browser fingerprinting & behavioural signals
-- 📊 MLflow for experiment tracking, model evaluation (Precision · Recall · F1-Score) & reproducible pipeline versioning
-- ☁️ Deployed on Azure with admin-restricted access — confidential company data, not publicly available
----
+<!-- PROJECTS:START -->
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <strong><a href="https://github.com/routparam12/Facedetect" target="_blank">🚀 Facedetect</a></strong>
+      <p>Face Detection – YuNet (OpenCV 5) + optional Haar + optional YOLO     Goal: Detect whether a face is present in the camera feed.</p>
+      <sub>📅 <b>Posted:</b> Sep 28, 2026 · 05:51 PM IST &nbsp;•&nbsp; 🔄 <b>Updated:</b> Sep 28, 2026 · 05:52 PM IST &nbsp;•&nbsp; 💻 <code>Python</code></sub>
+    </td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <strong><a href="https://github.com/routparam12/Plant-Scienctist" target="_blank">🚀 Plant-Scienctist</a></strong>
+      <p>Open-source project and implementation.</p>
+      <sub>📅 <b>Posted:</b> Sep 24, 2026 · 06:11 PM IST &nbsp;•&nbsp; 🔄 <b>Updated:</b> Sep 27, 2026 · 08:40 AM IST &nbsp;•&nbsp; 💻 <code>C++</code></sub>
+    </td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <strong><a href="https://github.com/routparam12/Learning-with-Bittu" target="_blank">🚀 Learning-with-Bittu</a></strong>
+      <p>Learning</p>
+      <sub>📅 <b>Posted:</b> Sep 09, 2026 · 11:21 PM IST &nbsp;•&nbsp; 🔄 <b>Updated:</b> Sep 24, 2026 · 06:02 PM IST &nbsp;•&nbsp; 💻 <code>JavaScript</code></sub>
+    </td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <strong><a href="https://github.com/routparam12/FaceInsight" target="_blank">🚀 FaceInsight</a></strong>
+      <p>FastAPI backend for a face-recognition attendance system.</p>
+      <sub>📅 <b>Posted:</b> Sep 07, 2026 · 12:32 AM IST &nbsp;•&nbsp; 🔄 <b>Updated:</b> Sep 07, 2026 · 06:11 PM IST &nbsp;•&nbsp; 💻 <code>Python</code></sub>
+    </td>
+  </tr>
+</table>
+<!-- PROJECTS:END -->
  
 ## 📈 GitHub Stats
  
@@ -148,6 +153,13 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=routparam12&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
 </p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/routparam12/routparam12/output/github-snake-dark.svg">
+    <img alt="snake" src="https://raw.githubusercontent.com/routparam12/routparam12/output/github-snake.svg">
+  </picture>
+</div>
 ---
  
 ---
@@ -155,24 +167,62 @@
 ## ✍️ Latest Writing
  
 <!-- SUBSTACK:START -->
-<table>
+<table width="100%">
   <tr>
-    <td width="60">
-      <img src="https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fsubstack-icon.png" width="48" height="48" style="border-radius:8px;" />
+    <td width="160" align="center" valign="middle">
+      <a href="https://paramjeetrout.substack.com/p/cnn-vs-rnn-vs-transformers-vs-diffusion" target="_blank">
+        <img src="https://substackcdn.com/image/fetch/$s_!n_z9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa180d82b-2ab8-4c2e-bc64-03af0df1ab6e_1672x940.png" width="160" style="border-radius: 8px; max-width: 100%; display: block;" alt="CNN vs RNN vs Transformers vs Diffusion vs GNN: A Simple Guide to Modern Deep Learning Architectures" />
+      </a>
     </td>
-    <td>
-      <strong>
-        <a href="https://substack.com/@paramjeetrout/note/p-206702717">
-          Better Retrieval. Better Context. Better Answer.
-        </a>
-      </strong><br/>
-      <sub>A quick note on why RAG quality starts with what you retrieve — not what the LLM generates.</sub><br/>
-      <sub>📍 <a href="https://substack.com/@paramjeetrout">substack.com/@paramjeetrout</a> · 🐦 <a href="https://x.com/Paramjeet_r">@Paramjeet_r</a></sub>
+    <td valign="middle">
+      <a href="https://paramjeetrout.substack.com/p/cnn-vs-rnn-vs-transformers-vs-diffusion" target="_blank">
+        <strong>CNN vs RNN vs Transformers vs Diffusion vs GNN: A Simple Guide to Modern Deep Learning Architectures</strong>
+      </a>
+      <br/>
+      <sub>One of the easiest mistakes to make in deep learning interviews is memorizing model names without understanding why each...</sub>
+      <br/><br/>
+      <sub>📅 <b>Posted:</b> Oct 02, 2026 · 08:38 AM IST &nbsp;•&nbsp; 🌐 <a href="https://paramjeetrout.substack.com" target="_blank">paramjeetrout.substack.com</a></sub>
     </td>
   </tr>
 </table>
-> 💡 *I write about RAG systems, data architecture, and practical GenAI — follow on [Substack](https://substack.com/@paramjeetrout) or [X](https://x.com/Paramjeet_r)*
- 
+<table width="100%">
+  <tr>
+    <td width="160" align="center" valign="middle">
+      <a href="https://paramjeetrout.substack.com/p/gpt-3-end-to-end-what-actually-happens" target="_blank">
+        <img src="https://substackcdn.com/image/fetch/$s_!7wWa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2bb3cf3-ef34-44b9-a60f-ca3e49984d97_1672x940.png" width="160" style="border-radius: 8px; max-width: 100%; display: block;" alt="GPT-3 End-to-End: What Actually Happens From Text to the Next Token" />
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://paramjeetrout.substack.com/p/gpt-3-end-to-end-what-actually-happens" target="_blank">
+        <strong>GPT-3 End-to-End: What Actually Happens From Text to the Next Token</strong>
+      </a>
+      <br/>
+      <sub>A better mental model is to follow one piece of text through the entire pipeline, from the moment it enters GPT-3 to the...</sub>
+      <br/><br/>
+      <sub>📅 <b>Posted:</b> Sep 14, 2026 · 09:51 PM IST &nbsp;•&nbsp; 🌐 <a href="https://paramjeetrout.substack.com" target="_blank">paramjeetrout.substack.com</a></sub>
+    </td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="160" align="center" valign="middle">
+      <a href="https://paramjeetrout.substack.com/p/building-a-hybrid-ai-chatbot-api" target="_blank">
+        <img src="https://substackcdn.com/image/fetch/$s_!0EH1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee99da1f-5fe8-4274-83ef-f139a8588089_1536x1024.png" width="160" style="border-radius: 8px; max-width: 100%; display: block;" alt="Building a Hybrid AI Chatbot API" />
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://paramjeetrout.substack.com/p/building-a-hybrid-ai-chatbot-api" target="_blank">
+        <strong>Building a Hybrid AI Chatbot API</strong>
+      </a>
+      <br/>
+      <sub>How Modern AI Systems Actually Work Behind the Scenes</sub>
+      <br/><br/>
+      <sub>📅 <b>Posted:</b> Aug 03, 2026 · 07:25 PM IST &nbsp;•&nbsp; 🌐 <a href="https://paramjeetrout.substack.com" target="_blank">paramjeetrout.substack.com</a></sub>
+    </td>
+  </tr>
+</table>
+
+> 💡 *I write about RAG systems, data architecture, and practical GenAI — follow on [Substack](https://paramjeetrout.substack.com) or [X](https://x.com/Paramjeet_r)*
 <!-- SUBSTACK:END -->
  
 ---
